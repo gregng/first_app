@@ -1,0 +1,1 @@
+Add test readme.txt during git exercises
